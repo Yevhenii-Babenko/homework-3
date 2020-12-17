@@ -73,7 +73,10 @@ input[type=search]{
     border: none;
     border-radius: 10px;
     width: 100px;
+    outline: none;
+    color: #ffffff;
 }
+
 a{
     text-decoration: none;
     color: inherit;
@@ -83,7 +86,7 @@ a{
     border: none;
     border-radius: 5px;
     margin: 3px 3px 3px 3px;
-    background-image: url("./images/magnifying-glass.png");
+    background-image: url("./Images/magnifying-glass.png");
     background-size: 15px 15px;
     background-repeat: no-repeat;
     background-position: 5px 8px;
